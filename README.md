@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [chrome-sidecar](https://github.com/lcy362/chrome-sidecar) - Chrome skill that lets an agent drive the Chrome you already use over CDP — background tabs, real input events, and control handed back to you at password / 2FA / CAPTCHA walls. Zero dependencies.
 
 ## 📰 Articles & Blog Posts
 
